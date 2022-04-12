@@ -1,0 +1,2 @@
+image: nghiattracrk8s.azurecr.io/nghia-be:latest
+port: 3000
