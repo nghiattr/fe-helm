@@ -1,5 +1,5 @@
 {{/* Common labels */}}
 {{- define "common.labels" -}}
-app: be-app
+app: fe-app
 type: demo
 {{- end }}
